@@ -149,5 +149,20 @@
   "Packet İçerikleri": "Packet Contents",
   "Araç Bakım Period": "Vehicle Maintenance Period",
   "Uwingo Academy": "Uwingo Academy",
-  "Uwingo Araç Takip Sistemleri Yönetim Paneli": "Uwingo Vehicle Tracking System Management Panel"
+  "Uwingo Araç Takip Sistemleri Yönetim Paneli": "Uwingo Vehicle Tracking System Management Panel",
+  "Plaka": "License Plate",
+  "Marka": "Brand",
+  "Yıl": "Year",
+  "Şasi No": "Chassis No",
+  "İlk Kilometre": "Initial Kilometer",
+  "Sürücü Var mı": "Is there a Driver?",
+  "Kiralık mı": "For Rent?",
+  "Sürücü": "Driver",
+  "Ekleme Tarihi /Silinme Tarihi": "Added Date / Deleted Date",
+  "Araç Ekle": "Add Vehicle",
+  "Envanterinizde bulunan ürünlerinize ait araçlar": "Vehicles belonging to your products in your inventory",
+  "Araca Bağlı Sürücü Yönetimi": "Vehicle-Based Driver Management",
+  "Araca Bağlı Sürücüler": "Vehicle Connected Drivers",
+  "Envanterinizde bulunan araçlarınıza bağlı sürücüler": "Drivers connected to your vehicles in your inventory",
+  "Araca Sürücü Ekle": "Add Driver to Vehicle"
 }
