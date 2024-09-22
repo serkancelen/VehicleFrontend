@@ -164,5 +164,8 @@
   "Araca Bağlı Sürücü Yönetimi": "Vehicle-Based Driver Management",
   "Araca Bağlı Sürücüler": "Vehicle Connected Drivers",
   "Envanterinizde bulunan araçlarınıza bağlı sürücüler": "Drivers connected to your vehicles in your inventory",
-  "Araca Sürücü Ekle": "Add Driver to Vehicle"
+  "Araca Sürücü Ekle": "Add Driver to Vehicle",
+  "Araç Sürücü Bağlantısı Güncelle": "Update Vehicle Driver Link",
+  "Seçebileceğiniz boşta aracınız bulunmuyor": "You have no available vehicles to choose from.",
+  "Seçebileceğiniz sürücü bulunmuyor": "There are no drivers to choose from"
 }
